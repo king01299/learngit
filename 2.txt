@@ -1,2 +1,7 @@
 adsfsad2okdfasifasfas
+<<<<<<< HEAD
 5ok
+=======
+6ok
+7ok
+>>>>>>> f1a0150... 7ok2.txt
